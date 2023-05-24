@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c373892e52f7f478fd5c083cfb5a42, type: 3}
+  m_Name: DefaultGameConfig
+  m_EditorClassIdentifier: 
+  <SubjectInfoApiURI>k__BackingField: https://ga1vqcu3o1.execute-api.us-east-1.amazonaws.com/Assessment/stack
+  JengaPieceInfos: {fileID: 11400000, guid: 76883ac388110a049a0d5ec8eabdce7b, type: 2}
+  JengaStackerConfig: {fileID: 11400000, guid: 58848729026004f4db138b62c9396b2d, type: 2}

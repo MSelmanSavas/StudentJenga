@@ -1,0 +1,29 @@
+{
+  "name": "com.icaro.simple-atoms",
+  "version": "1.1.0",
+  "displayName": "Simple Atoms",
+  "description": "Use Scriptable Objects to store data and events in a game project",
+  "unity": "2020.1",
+  "samples": [
+    {
+      "displayName": "Sample Float Listener",
+      "description": "This sample shows how to use Float Listeners",
+      "path": "Samples~/Example1"
+    },
+    {
+      "displayName": "Sample Void Listener",
+      "description": "This sample shows how to use Void Listeners",
+      "path": "Samples~/Example2"
+    }
+  ],
+  "keywords": [
+    "scriptable objects",
+    "atom",
+    "simple atoms"
+  ],
+  "author": {
+    "name": "Icaro's codes",
+    "email": "icarogoulart@yahoo.com.br",
+    "url": "https://icaro56.github.io/"
+  }
+}
